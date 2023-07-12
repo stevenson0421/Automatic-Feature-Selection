@@ -1,8 +1,8 @@
 Greedy:
 
 correlation based: 6s
-greedy time: 6h 0m 10s
+greedy time: 13h 11m 10s
 
-lr time: 1m 13s
-gb time: 41m 16s
-nn time: 3h 20m 21s
+lr time: 1m 15s
+gb time: 38m 13s
+nn time: 3h 25m 18s
