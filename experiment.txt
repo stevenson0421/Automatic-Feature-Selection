@@ -1,8 +1,16 @@
 Greedy:
 
-correlation based: 6s
-greedy time: 13h 11m 10s
+first stage: 6s
+second stage: 13h 11m 10s
 
 lr time: 1m 15s
 gb time: 38m 13s
+nn time: 3h 25m 18s
+
+Individual:
+
+second stage: 21m 18s
+
+lr time: 3m 16s
+gb time: 67m 56s
 nn time: 3h 25m 18s
